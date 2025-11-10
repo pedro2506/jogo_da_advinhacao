@@ -14,8 +14,7 @@ Um pequeno jogo feito em **HTML + JavaScript puro**, onde o jogador tenta adivin
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/pedro2506/jogo_da_adinhacao/main/preview.png" 
-       alt="Preview do jogo" width="400">
+ <img src="https://raw.githubusercontent.com/pedro2506/jogo_da_adivinhacao/main/preview.png" alt="Preview do jogo" width="500">
 </p>
 
 
