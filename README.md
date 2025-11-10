@@ -6,8 +6,17 @@ Um pequeno jogo feito em **HTML + JavaScript puro**, onde o jogador tenta adivin
 
 
 ## 🖼️ Demonstração
+<h1 align="center">🎯 Jogo da Adivinhação</h1>
+
 <p align="center">
-https://raw.githubusercontent.com/pedro2506/jogo_da_adivinhacao/main/preview.png
+  Tente adivinhar o número secreto entre <strong>1 e 10</strong>!  
+  Um mini projeto simples com <strong>HTML, CSS e JavaScript</strong>.
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/pedro2506/jogo_da_adinhacao/main/preview.png" 
+       alt="Preview do jogo" width="400">
+</p>
 
 
 
@@ -93,10 +102,14 @@ Controle de tentativas
 
 Eventos de clique e teclado
 
-👨‍💻 Autor
+---
 
-Desenvolvido por Pedro Miranda
-💬 Projeto educacional para praticar lógica e JavaScript.
+## 🧑‍💻 Autor
+
+Feito com 💛 por **Pedro Miranda**  
+🔗 [GitHub](https://github.com/pedro2506)
+email: t3pedropaulo@gmail.com
+
 
 🪄 Licença
 
