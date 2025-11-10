@@ -6,7 +6,7 @@ Um pequeno jogo feito em **HTML + JavaScript puro**, onde o jogador tenta adivin
 
 
 ## 🖼️ Demonstração
-
+<p align="center">
 https://raw.githubusercontent.com/pedro2506/jogo_da_adivinhacao/main/preview.png
 
 
