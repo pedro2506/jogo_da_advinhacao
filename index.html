@@ -1,56 +1,33 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Jogo de Adivinhação</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      background: linear-gradient(135deg, #464647, #494749);
-      color: white;
-      text-align: center;
-      padding: 40px;
-    }
-    input {
-      padding: 10px;
-      border-radius: 5px;
-      border: none;
-      width: 100px;
-      text-align: center;
-      font-size: 16px;
-    }
-    button {
-      margin-top: 10px;
-      padding: 10px 20px;
-      background-color: #ffd700;
-      border: none;
-      border-radius: 5px;
-      cursor: pointer;
-      font-size: 16px;
-    }
-    button:hover {
-      background-color: #ffc107;
-    }
-    #mensagem {
-      margin-top: 20px;
-      font-size: 18px;
-      min-height: 40px;
-    }
-  </style>
+  <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
-  <h1>🎯 Jogo de Adivinhação </h1>
-  <p><strong>Digite um número de 1 a 10:</strong></p>
+  <main>
+    <h1>🎯 Jogo da Adivinhação</h1>
+    <p>Tente adivinhar o número secreto entre <strong>1 e 10</strong>!</p>
+    
+    <input 
+      type="number" 
+      id="palpite" 
+      placeholder="Digite aqui" 
+      min="1" 
+      max="10"
+      aria-label="Digite seu palpite"
+    >
+    
+    <div class="botoes">
+      <button id="btnTentar">🎲 Tentar</button>
+      <button id="btnReiniciar">🔄 Reiniciar</button>
+    </div>
+    
+    <p id="mensagem" aria-live="polite"></p>
+  </main>
 
-  <input type="number" id="palpite" min="1" max="10" placeholder="1-10">
-  <br>
-  <button id="btnTentar" type="button">Tentar</button>
-  <button id="btnReiniciar" type="button">Reiniciar</button>
-
-  <p id="mensagem"></p>
-
-  <!-- 👇 Ligação do arquivo JS -->
-  <script src="script.js"></script>
+  <script src="js/script.js"></script>
 </body>
 </html>
