@@ -161,7 +161,7 @@ Este projeto segue boas práticas de desenvolvimento:
 ## 🧑‍💻 Desenvolvido por
 
 <div align="center">
-  <img src="" width="150px" style="border-radius: 50%;" alt="Pedro"/>
+  <img src="#" width="150px" style="border-radius: 50%;" alt="Pedro"/>
   <br><br>
 
 ** [Pedro Miranda]**  
