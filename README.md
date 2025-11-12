@@ -158,18 +158,20 @@ Este projeto segue boas práticas de desenvolvimento:
 
 ---
 
-## 🧑‍💻 Desenvolvido por
+## 👨‍💻 Desenvolvedor
 
 <div align="center">
-  <img src="#" width="150px" style="border-radius: 50%;" alt="Pedro"/>
+  <img src="https://github.com/SEU-USERNAME.png" width="150px" style="border-radius: 50%;" alt="Pedro"/>
   <br><br>
-
-** [Pedro Miranda]**  
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pedro2506)<br>
+  
+  **Desenvolvido por [Pedro](https://github.com/SEU-USERNAME)**<br>
+   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pedro2506)<br>
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-miranda-510471b4/)<br>
 📧 Email: t3pedropaulo@gmail.com<br>
 💬 Projeto criado com fins educacionais e para portfólio.<br>
 📅 Criado em **Novembro de 2025**  
+
+---
 
 ---
 
