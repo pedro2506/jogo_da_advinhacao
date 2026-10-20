@@ -1,6 +1,6 @@
 // === Função que gera um número aleatório de 1 a 10 ===
 function gerarNumero() {
-  return Math.floor(Math.random() * 10) + 1;
+  return Math.floor(Math.random() * 100) + 1;
 }
 
 // === Variáveis do jogo ===
@@ -22,7 +22,7 @@ function verificarPalpite() {
   tentativas++;
 
   // Validação do input
-  if (!palpite || palpite < 1 || palpite > 10) {
+  if (!palpite || palpite < 1 || palpite > 100) {
     mensagem.textContent = "⚠️ Digite um número entre 1 e 100.";
     input.value = "";
     input.focus();
