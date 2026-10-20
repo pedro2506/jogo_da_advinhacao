@@ -23,7 +23,7 @@ function verificarPalpite() {
 
   // Validação do input
   if (!palpite || palpite < 1 || palpite > 10) {
-    mensagem.textContent = "⚠️ Digite um número entre 1 e 10.";
+    mensagem.textContent = "⚠️ Digite um número entre 1 e 100.";
     input.value = "";
     input.focus();
     return;
